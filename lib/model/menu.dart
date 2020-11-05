@@ -1,0 +1,1 @@
+class Menu{  final String name;  bool pressed = false;  final String amount;  final String imgUrl;  final String no;  Menu({this.name, this.amount, this.imgUrl, this.no});}

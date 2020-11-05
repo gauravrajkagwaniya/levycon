@@ -1,0 +1,1 @@
+class Filter{  final tiker;  bool pressed = false;  Filter({this.tiker});}
